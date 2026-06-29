@@ -8,6 +8,7 @@ library Ethereum {
     bytes32 internal constant OSERO_ILK = bytes32("ALLOCATOR-PRYSM-A");
     address internal constant OSERO_ALLOCATOR_VAULT = 0x146181Aa9B362EaEC2eC3aDd7429a06D53B43d1a;
     address internal constant OSERO_ALLOCATOR_BUFFER = 0xD0BB61b34771146e31055f20f329cDf97429F889;
+    address internal constant OSERO_STAR_GUARD = 0xBfA2D1dA838E55A74c61699e164cDFF8cF0cF0e2;
 
     address internal constant OSERO_ACCESS_CONTROLS = 0x791D2a017532CfAD881c446e6bF93BbC3c0778b2;
     address internal constant OSERO_ALM_PROXY = 0x6d370e359e9cbd0Fd35Bb38fAF705D84238CB884;
